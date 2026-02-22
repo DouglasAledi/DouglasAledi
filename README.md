@@ -1,20 +1,20 @@
-# 👋 Olá, eu sou Douglas Aledi
+# 👋 Hi, I'm Douglas Aledi
 
-Sou estudante de Engenharia de Software, com formação técnica em Eletrônica pela ETEC de São Paulo (Centro Paula Souza). Tenho base sólida em hardware, sistemas eletrônicos e projetos de IoT, o que me proporcionou uma visão integrada entre mundo físico e software.
+I am a Software Engineering student with a technical degree in Electronics from ETEC São Paulo (Centro Paula Souza). I have a strong foundation in hardware, electronic systems, and IoT projects, which gave me an integrated perspective between the physical world and software systems.
 
-## 🛠 Experiência Profissional
+## 🛠 Professional Experience
 
-Atuei na Verisure com manutenção técnica de equipamentos de segurança, realizando em média **700 manutenções mensais**, envolvendo análise física, elétrica e validação funcional. Trabalhei com organização de processos, controle de métricas e melhoria contínua da produção, aplicando conceitos de padronização e eficiência operacional.
+I worked at Verisure performing technical maintenance on security equipment, handling an average of **700 repairs per month**, involving physical and electrical diagnostics, functional validation, and quality assurance. During this period, I focused on process organization, metrics tracking, and continuous improvement to enhance operational efficiency.
 
-Atualmente atuo como **Técnico de TI Nível 3**, prestando suporte em ambientes críticos para instituições como Receita Federal, TCU e TRT. Trabalho com resolução de problemas complexos, padronização de procedimentos, documentação técnica e melhoria de fluxo de atendimento, sempre com foco em estabilidade, segurança e performance.
+Currently, I work as a **Level 3 IT Support Technician**, providing technical support in critical environments for institutions such as Receita Federal, TCU, and TRT. My role involves solving complex technical issues, standardizing procedures, documenting processes, and improving service workflows, always focusing on stability, security, and performance.
 
-Desenvolvi um **manual técnico próprio**, reunindo links, documentações oficiais e passo a passo detalhado dos principais processos. Essa iniciativa centralizou informações, reduziu retrabalho e tornou os atendimentos mais rápidos, organizados e eficientes, beneficiando desde terceirizados até analistas, auditores e delegados.
+I developed a **technical internal manual**, centralizing official documentation, system links, and detailed step-by-step procedures. This initiative reduced rework, accelerated service delivery, and improved process clarity for different user profiles — from contractors to analysts, auditors, and executives — ensuring high-quality and consistent support.
 
-## 💻 Desenvolvimento de Software
+## 💻 Software Development
 
-Venho aprofundando meus conhecimentos em desenvolvimento backend, com foco na construção de APIs bem estruturadas e soluções escaláveis. Busco aplicar na prática soluções organizadas, eficientes e voltadas para problemas reais, unindo arquitetura, clareza e performance.
+I am continuously deepening my knowledge in backend development, focusing on building well-structured APIs and scalable systems. I aim to apply organized, efficient, and real-world solutions, combining clean architecture, clarity, and performance.
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45"/>
@@ -27,10 +27,10 @@ Venho aprofundando meus conhecimentos em desenvolvimento backend, com foco na co
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
 </p>
 
-## 🎯 Interesses
+## 🎯 Interests
 
-Backend • Arquitetura de Software • Integração de Sistemas • APIs REST • Sistemas Escaláveis • Melhoria Contínua
+Backend Development • Software Architecture • System Integration • REST APIs • Scalable Systems • Continuous Improvement
 
 ---
 
-📚 Sempre aprendendo, evoluindo e buscando construir sistemas mais organizados, eficientes e bem estruturados.
+📚 Always learning, evolving, and focused on building well-structured and efficient systems.
