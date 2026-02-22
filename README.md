@@ -1,20 +1,36 @@
-### Oi eu sou o Douglas Aledi 👋
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-aledi-83b923271/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/douglasaledi13?igsh=aDl6azF1OXk4Y2p0)
+# 👋 Olá, eu sou Douglas Aledi
 
-![Aledi GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasAledi&show_icons=true&theme=tokyonight)
+Sou estudante de Engenharia de Software, com formação técnica em Eletrônica pela ETEC de São Paulo (Centro Paula Souza). Tenho base sólida em hardware, sistemas eletrônicos e projetos de IoT, o que me proporcionou uma visão integrada entre mundo físico e software.
 
-### Tecnologia que eu uso
+## 🛠 Experiência Profissional
 
-<div style="display: inline_block"><br/>
- <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
- <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
- <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
- <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
- <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><br/>
-</div>
+Atuei na Verisure com manutenção técnica de equipamentos de segurança, realizando em média **700 manutenções mensais**, envolvendo análise física, elétrica e validação funcional. Trabalhei com organização de processos, controle de métricas e melhoria contínua da produção, aplicando conceitos de padronização e eficiência operacional.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasAledi)](https://github.com/DouglasAledi/github-readme-stats)
-<br/>
+Atualmente atuo como **Técnico de TI Nível 3**, prestando suporte em ambientes críticos para instituições como Receita Federal, TCU e TRT. Trabalho com resolução de problemas complexos, padronização de procedimentos, documentação técnica e melhoria de fluxo de atendimento, sempre com foco em estabilidade, segurança e performance.
 
-## "A educação é a arma mais poderosa que você pode usar para mudar o mundo." <br/><br/> - Nelson Mandela.
+Desenvolvi um **manual técnico próprio**, reunindo links, documentações oficiais e passo a passo detalhado dos principais processos. Essa iniciativa centralizou informações, reduziu retrabalho e tornou os atendimentos mais rápidos, organizados e eficientes, beneficiando desde terceirizados até analistas, auditores e delegados.
+
+## 💻 Desenvolvimento de Software
+
+Venho aprofundando meus conhecimentos em desenvolvimento backend, com foco na construção de APIs bem estruturadas e soluções escaláveis. Busco aplicar na prática soluções organizadas, eficientes e voltadas para problemas reais, unindo arquitetura, clareza e performance.
+
+## 🚀 Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+</p>
+
+## 🎯 Interesses
+
+Backend • Arquitetura de Software • Integração de Sistemas • APIs REST • Sistemas Escaláveis • Melhoria Contínua
+
+---
+
+📚 Sempre aprendendo, evoluindo e buscando construir sistemas mais organizados, eficientes e bem estruturados.
